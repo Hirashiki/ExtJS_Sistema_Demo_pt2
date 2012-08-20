@@ -1,0 +1,19 @@
+{
+    expanded: true,
+    children: [
+        {
+            text: 'MenuPrincipal',
+            expanded: true,
+            children: [
+                { leaf: true, text: 'Home' }
+            ]
+        },
+        {
+            text: 'Seguranca',
+            expanded: true,
+            children: [
+                { leaf: true, text: 'Usuario' }
+            ]
+        }
+    ]
+}

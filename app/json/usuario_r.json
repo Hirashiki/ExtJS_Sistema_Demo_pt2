@@ -1,0 +1,9 @@
+{
+	success: true,
+	data: 
+		[
+			{id: '1',nome: 'Nome 01',ativo: 'S',datacadastro: '01/01/2000',dataultimaalteracao: '01/01/2001'},
+			{id: '2',nome: 'Nome 02',ativo: 'N',datacadastro: '01/01/2000',dataultimaalteracao: '01/01/2001'},
+			{id: '3',nome: 'Nome 03',ativo: 'S',datacadastro: '01/01/2000',dataultimaalteracao: '01/01/2001'}
+		]
+}
